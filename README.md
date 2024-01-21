@@ -8,5 +8,5 @@
 ![image](https://github.com/balupawar/Movie_Info/assets/57836867/be3bf9f6-6ba6-401d-974b-7df3b3f84d19)
 
 
-# Display Perticular movie inforation
+# Display Perticular movie information
 ![image](https://github.com/balupawar/Movie_Info/assets/57836867/16932f32-fe97-4496-aaec-58c4b2119ba7)
